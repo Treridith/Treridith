@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Aditya Choudhary
 - 🌱 Currently an Undergrad at IIIT,Delhi
 - 📫 U can to reach me at adityach0602@gmail.com
-<br>
 
 ## Stats
 
