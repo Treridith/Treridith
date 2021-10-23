@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Aditya Choudhary
 - 🌱 Currently an Undergrad at IIIT,Delhi
-- 📫 U can to reach me at adityach0602@gmail.com
 
 ## Stats
 
@@ -10,7 +9,7 @@
 
 ## Languages used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treridith&theme=radical&layout=compact)](https://github.com/Treridith)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treridith&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can reach me at -
 
