@@ -4,6 +4,7 @@
 - 🌱 Currently an Undergrad at IIIT,Delhi
 - 📫 U can to reach me at adityach0602@gmail.com
 <br>
+
 ## Stats
 
 [![My-Stats](https://github-readme-stats.vercel.app/api?username=Treridith&theme=radical&show_icons=true&layout=compact&height=30)](https://github.com/Treridith)
