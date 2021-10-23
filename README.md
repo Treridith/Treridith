@@ -6,8 +6,12 @@
 
 <br>
 
+## Stats
+
 [![My-Stats](https://github-readme-stats.vercel.app/api?username=Treridith&theme=radical&show_icons=true&layout=compact&height=30)](https://github.com/Treridith)
+
+# Languages used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treridith&theme=radical&layout=compact)](https://github.com/Treridith)
 
-# You can reach me at->
+## You can reach me at -
