@@ -5,7 +5,7 @@
 
 ## Stats
 
-[![My-Stats](https://github-readme-stats.vercel.app/api?username=Treridith&theme=radical&show_icons=true&layout=compact&height=30)](https://github.com/Treridith)
+[![My-Stats](https://github-readme-stats.vercel.app/api?username=Treridith&theme=dark&show_icons=true&layout=compact&height=30)](https://github.com/Treridith)
 
 ## Languages used
 
