@@ -14,5 +14,5 @@
 
 ## You can reach me at -
 
-> Email - adityach0602@gmail.com
-> Linkdln - https://www.linkedin.com/in/aditya-choudhary-5b78a51a3/
+- Email - adityach0602@gmail.com
+- Linkdln - https://www.linkedin.com/in/aditya-choudhary-5b78a51a3/
